@@ -4,3 +4,5 @@
 [0001 Two Sum](src/Q_0000_0999/TwoSum.java)
 
 [0002 Add Two Numbers](src/Q_0000_0999/AddTwoNumbers.java)
+
+[0386 Lexicographical Numbers](src/Q_0000_0999/LexicographicalNumbers.java)
