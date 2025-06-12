@@ -8,3 +8,5 @@
 [0386 Lexicographical Numbers](src/Q_0000_0999/LexicographicalNumbers.java)
 
 [3170 Lexicographically Minimum String After Removing Stars](src/Q_3000_3999/LexicographicallyMinimumStringAfterRemovingStars.java)
+
+[3423 Maximum Difference Between Adjacent Elements In A Circular Array](src/Q_3000_3999/MaximumDifferenceBetweenAdjacentElementsInACircularArray.java)
