@@ -10,6 +10,9 @@
 ## 1000-1999
 [1800 Maximum Ascending Subarray Sum](src/Q_1000_1999/MaximumAscendingSubarraySum.java)
 
+[1910 Remove All Occurrences Of A Substring](src/Q_1000_1999/RemoveAllOccurrencesOfASubstring.java)
+
+
 ## 3000-3999
 [3170 Lexicographically Minimum String After Removing Stars](src/Q_3000_3999/LexicographicallyMinimumStringAfterRemovingStars.java)
 
