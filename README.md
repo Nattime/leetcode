@@ -7,10 +7,15 @@
 
 [0386 Lexicographical Numbers](src/Q_0000_0999/LexicographicalNumbers.java)
 
+
 ## 1000-1999
 [1800 Maximum Ascending Subarray Sum](src/Q_1000_1999/MaximumAscendingSubarraySum.java)
 
 [1910 Remove All Occurrences Of A Substring](src/Q_1000_1999/RemoveAllOccurrencesOfASubstring.java)
+
+
+## 2000-2999
+[2016 Maximum Difference Between Increasing Elements](src/Q_2000_2999/MaximumDifferenceBetweenIncreasingElements.java)
 
 
 ## 3000-3999
