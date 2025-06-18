@@ -17,6 +17,8 @@
 ## 2000-2999
 [2016 Maximum Difference Between Increasing Elements](src/Q_2000_2999/MaximumDifferenceBetweenIncreasingElements.java)
 
+[2966 Divide Array Into Arrays With Max Difference](src/Q_2000_2999/DivideArrayIntoArraysWithMaxDifference.java)
+
 
 ## 3000-3999
 [3170 Lexicographically Minimum String After Removing Stars](src/Q_3000_3999/LexicographicallyMinimumStringAfterRemovingStars.java)
