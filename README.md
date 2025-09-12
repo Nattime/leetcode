@@ -17,6 +17,8 @@
 ## 2000-2999
 [2016 Maximum Difference Between Increasing Elements](src/Q_2000_2999/MaximumDifferenceBetweenIncreasingElements.java)
 
+[2537 Count The Number Of Good Subarrays](src/Q_2000_2999/CountTheNumberOfGoodSubarrays.java)
+
 [2966 Divide Array Into Arrays With Max Difference](src/Q_2000_2999/DivideArrayIntoArraysWithMaxDifference.java)
 
 
