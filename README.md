@@ -25,4 +25,6 @@
 ## 3000-3999
 [3170 Lexicographically Minimum String After Removing Stars](src/Q_3000_3999/LexicographicallyMinimumStringAfterRemovingStars.java)
 
+[3397 Maximum Number of Distinct Elements After Operations](src/Q_3000_3999/MaximumNumberOfDistinctElementsAfterOperations.java)
+
 [3423 Maximum Difference Between Adjacent Elements In A Circular Array](src/Q_3000_3999/MaximumDifferenceBetweenAdjacentElementsInACircularArray.java)
